@@ -1,0 +1,6 @@
+# IntelliJ IDEA
+/.idea/
+/lattesite-structured-data.iml
+
+# Java output
+/out/

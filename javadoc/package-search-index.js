@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"lattesite.google.merchant.enumerations"},{"l":"lattesite.google.merchant.examples"},{"l":"lattesite.google.merchant.interfaces"},{"l":"lattesite.google.merchant.services"},{"l":"lattesite.google.merchant.utils"}];updateSearchResults();
