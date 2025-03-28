@@ -6,8 +6,9 @@ package lattesite.google.merchant.enumerations;
 
 public enum ProductCategory {
 
-    ELECTRONICS_ELECTRONICS_ACCESSORIES_COMPUTER_ACCESSORIES_MOUSE_PADS("Electronics > Electronics Accessories > Computer Accessories > Mouse Pads", 1993),
-    APPAREL_ACCESSORIES_CLOTHING_DRESSES("Apparel & Accessories > Clothing > Dresses", 2271);
+    MOUSE_PADS("Electronics > Electronics Accessories > Computer Accessories > Mouse Pads", 1993),
+    KEYBOARD_MOUSE_WRIST_RESTS("Electronics > Electronics Accessories > Computer Accessories > Keyboard & Mouse Wrist Rests", 6291),
+    DRESSES("Apparel & Accessories > Clothing > Dresses", 2271);
 
     private final String tree;
     private final int id;

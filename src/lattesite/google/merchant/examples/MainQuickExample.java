@@ -182,7 +182,7 @@ public class MainQuickExample {
 
         @Override
         public ProductCategory getProductCategory() {
-            return ProductCategory.APPAREL_ACCESSORIES_CLOTHING_DRESSES;
+            return ProductCategory.DRESSES;
         }
 
         @Override
